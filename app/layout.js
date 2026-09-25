@@ -1,3 +1,3 @@
 import "./globals.css";
 export const metadata={title:"Jyotish Shivalaya | Astrology, Vastu, Numerology & Palmistry",description:"Online consultations with Astrologer Pt. Nikunj Kr Sahal for Astrology, Vastu, Numerology and Palmistry.",keywords:["Jyotish Shivalaya","Pt. Nikunj Kr Sahal","Astrology","Vastu","Numerology","Palmistry","online astrology consultation"],openGraph:{title:"Jyotish Shivalaya",description:"Astrology, Vastu, Numerology & Palmistry consultations with Pt. Nikunj Kr Sahal",type:"website"}};
-export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
+export default function RootLayout({children}){return <html lang="en"><head><meta name="monetag" content="c4b90cfe110bbc7a696149a5775eac8e" /></head><body>{children}</body></html>}
