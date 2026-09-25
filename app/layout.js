@@ -39,19 +39,19 @@ export default function RootLayout({ children }) {
         <Script
           src="https://quge5.com/88/tag.min.js"
           data-zone="286158"
-          strategy="afterInteractive"
+          strategy="beforeInteractive"
           data-cfasync="false"
         />
 
         <Script
           src="https://gz.argufycopecks.com/sbzb4xodPjBc3/154615"
-          strategy="afterInteractive"
+          strategy="beforeInteractive"
           data-cfasync="false"
         />
 
         <Script
           src="https://qe.biddersaromal.com/raAWUn56Gy20hTg/154613"
-          strategy="afterInteractive"
+          strategy="beforeInteractive"
           data-cfasync="false"
         />
       </head>
